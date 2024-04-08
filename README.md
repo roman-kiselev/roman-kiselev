@@ -1,16 +1,23 @@
-### Hi there 👋
+# Привет, меня зовут Роман 👋
 
-<!--
-**roman-kiselev/roman-kiselev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Обо мне
 
-Here are some ideas to get you started:
+Я Node.js разработчик со знаниями и опытом работы с самыми популярными фреймворками. Я изучаю программирование и стремлюсь создавать эффективные, масштабируемые и хорошо структурированные приложения, используя лучшие практики и стандарты кодирования.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Мои навыки
+
+-   Владение Node.js и его фреймворками, такими как Express.js, Nest.js и React.js
+-   Опыт работы с базами данных, включая PostgreSQL и MySQL
+-   Работа с RESTful API
+-   Владение JavaScript и TypeScript
+-   Знание основ Python
+
+## Описание последнего проекта
+
+-   https://github.com/enot58/scopeWork
+
+Внутренняя CRM система для строительной организации.
+
+##
+
+[![My Skills](https://skills.thijs.gg/icons?i=js,ts,nodejs,mysql,postgres,prisma,react,docker,html,css,py&theme=light)](https://skills.thijs.gg)
